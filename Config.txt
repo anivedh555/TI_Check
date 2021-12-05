@@ -1,6 +1,6 @@
 [IBM]
-api_key = 32626b5f-7547-428f-97da-a7acb0720d67
-api_pass = 7f6cc914-a301-43cf-8057-aa363ca47154
+api_key = INSERT_API_KEY_HERE
+api_pass = INSERT_API_PASSWORD_HERE
 ip_api = https://api.xforce.ibmcloud.com/ipr/
 url_api = https://api.xforce.ibmcloud.com/url/
 hash_api = https://api.xforce.ibmcloud.com/malware/
@@ -13,7 +13,7 @@ url = https://www.iplocation.net/
 map = https://www.google.co.in/maps/place/
 
 [VirusTotal]
-api_key = a3a51c954f3510216b07430af840e88b3732564786dec3ff3baad2033dfd1b06
+api_key = INSERT_API_KEY_HERE
 url_api = https://www.virustotal.com/vtapi/v2/url/report
 hash_api = https://www.virustotal.com/vtapi/v2/file/report
 filescan_api = https://www.virustotal.com/vtapi/v2/file/scan
